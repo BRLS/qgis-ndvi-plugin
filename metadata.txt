@@ -1,0 +1,14 @@
+[general]
+name=NDVI
+qgisMinimumVersion=2.0
+description=Convert Landsat8 images to NDVI
+version=1.0
+author=Bart Steen, Lammert Hilarides, Yanick Hagemeijer
+email=b.r.l.steen2@gmail.com
+
+changelog=2013-12-05
+	+ Added browse capabilities for MTL file and output filename
+	+ Added Disable mask checkbox for both bands
+	+ Both types of MTL file formats supported
+tags=Lansdat8,Remote Sensing,NDVI
+
